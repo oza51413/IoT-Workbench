@@ -1,5 +1,7 @@
 # IoT-Workbench
-My personal toolkit for exploring, analyzing, and hacking IoT devices.    
+My personal toolkit for exploring, analyzing, and hacking IoT devices.  
+
+![Tools](IoTBench.png)
 
 - Thinkpad x250  
 - Digital Multimeter(DMM)    
